@@ -1,7 +1,0 @@
-.board {
-  border: 4px solid #4e342e;
-  width: 640px;
-  height: 640px;
-  display: flex;
-  flex-flow: row wrap;
-}

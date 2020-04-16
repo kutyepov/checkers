@@ -1,11 +1,7 @@
-import React from "react";
-import Board from "./Board";
-import "./styles.css";
-
-export default function App() {
-  return (
-    <div className="App">
-      <Board />
-    </div>
-  );
+"use strict";
+exports.__esModule = true;
+var react_1 = require("react");
+function App(props) {
+    return react_1["default"].createElement("div", null, "Hello world");
 }
+exports.App = App;
